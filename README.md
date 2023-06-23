@@ -5,29 +5,19 @@ La última etapa (etapa 6) debía ser una escena sobre un científico de los que
 
 Documentación: https://docs.google.com/document/d/1X7sNgk3kwweKhRh_J-OF474CFo0evaiU/edit?usp=sharing&ouid=108901087742241995538&rtpof=true&sd=true
 
-- Practica 1: Configuración del entorno.
+## Practica 1: Configuración del entorno.
 
+## Practica 2: Péndulo 2D.
+![etapa2](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/b97d5fb8-a308-4611-ba90-32c09c2ff3a9)
 
-- Practica 2: Péndulo 2D.
+## Practica 3: Objetos 3D.
+![etapa3](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/0256289c-329a-46aa-9815-2f2e1b60c0f1)
 
-![etapa2](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/526c069f-3dce-4d68-bd5f-045d4623d822)
+##  Practica 4: Movimiento de la cámara.
+![Etapa4](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/a19daada-bf6f-4a27-9d3e-dbf3328813f4)
 
+## Practica 5: Iluminación.
+![Etapa5](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/578f258d-38ef-4b0d-ac6b-03efe475cbf7)
 
-- Practica 3: Objetos 3D.
-  
-![etapa3](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/7192279a-72a7-4da3-8c0e-14733fc7b1f9)
-
-
-- Practica 4: Movimiento de la cámara.
-  
-![Etapa4](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/d0639190-966b-42d2-8e00-f9924fe8fd57)
-
-
-- Practica 5: Iluminación.
-  
-![Etapa5](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/4ec8cdb4-df0e-43f9-9062-ec521cb942bd)
-
-
-- Practica 6: Sistema solar (reducido) con texturas de la capa de ozono.
-  
-![etapa6 (1)](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/6d738a8a-d23e-4ffe-8a6e-bc830456d73c)
+## Practica 6: Sistema solar (reducido) con texturas de la capa de ozono.
+![etapa6 (1)](https://github.com/MarcoMG2000/InformaticaGrafica/assets/100850152/34e1f7a8-bc4c-4e8d-ae1e-e61eac531f9d)
